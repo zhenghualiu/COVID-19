@@ -1,0 +1,202 @@
+province_state	Country_region	Avg.Tem.Jan	Avg.Tem.Feb	Avg.Tem.Mar	Avg.Precipitation.Jan	Avg.Precipitation.Feb	Avg.Precipitation.Mar
+Afghanistan	Afghanistan	0.9	3	8.4	43.9	55.7	73.4
+Albania	Albania	5.8	6.7	8.5	147.6	136.4	106.6
+Algeria	Algeria	9.2	10.4	12.3	58.9	53.6	49.3
+Angola	Angola	22.3	22.6	22.8	131.7	126.6	175.8
+Argentina	Argentina	23.8	22.9	20.8	105.4	96.2	106.3
+Armenia	Armenia	-6.2	-4.5	0.3	21.8	26.8	36.6
+Australia	Australia	22.9	22.7	21	85.2	84.2	78.2
+Austria	Austria	-2.6	-1.3	2.5	54.4	48.3	65
+Azerbaijan	Azerbaijan	1	1.9	6	26.1	31.7	42.2
+Bangladesh	Bangladesh	18.7	21.2	25.5	8.9	22.1	48.1
+Belgium	Belgium	1.6	2.1	5	72.6	51.6	64.3
+Belize	Belize	22.7	23.4	24.9	106.8	59.8	47.9
+Benin	Benin	26.9	28.6	29.3	6.2	20.2	58.8
+Bhutan	Bhutan	7.5	9.6	12.7	11	25.7	25.5
+Bolivia	Bolivia	18.9	18.7	18.5	156.7	138.2	109
+Bosnia and Herzegovina	Bosnia and Herzegovina	0.2	1.6	5.5	84.6	79.6	79
+Botswana	Botswana	25.7	24.9	23.8	91.2	80.3	56.1
+Brazil	Brazil	25.6	25.6	25.2	95.6	115.8	161.3
+Brunei	Brunei	26	26.5	26.5	315	165	130
+Bulgaria	Bulgaria	-0.6	0.4	3.9	47	40.5	45.8
+Burkina Faso	Burkina Faso	24.8	27.7	30.7	0.8	1.8	8.6
+Burundi	Burundi	20.1	20.2	20.1	141.9	137.5	164
+Byelarus	Byelarus						
+Cambodia	Cambodia	25.1	26.6	28.1	8.1	15.3	40.2
+Cameroon	Cameroon	23.7	24.9	25.5	16.7	36.2	111.3
+Canada	Canada	-11	-9.1	-4	77	57.9	60.6
+Central African Republic	Central African Republic	24.6	26.2	26.9	10.8	22.6	76.3
+Chad	Chad	23.8	26.3	29.6	0	0.2	2.7
+Chile	Chile	16.3	16.1	14.7	46.7	45.4	60.3
+China	China	-0.4	1.6	7.1	22.4	33.2	51.9
+Colombia	Colombia	23.6	23.9	24.1	81.3	85.8	110
+Congo	Congo						
+Costa Rica	Costa Rica	24.1	24.6	25.3	86.5	58.7	58.2
+Croatia	Croatia	3.8	4.6	8	80.7	67.7	77.5
+Cuba	Cuba	22.5	22.6	23.8	36.2	34.9	39.1
+Cyprus	Cyprus	11.4	11.7	13.3	75.1	61.8	44.5
+Czech Republic	Czech Republic	-2.2	-1.2	2.1	35.2	33.3	39
+Denmark	Denmark	0.5	0.2	1.9	43.1	30.9	36.1
+Djibouti	Djibouti	24.1	24.9	26.2	9.6	8.1	17.7
+Dominican Republic	Dominican Republic	23.1	23.4	24.2	73.6	65	65.8
+Ecuador	Ecuador	20.4	20.5	20.7	122.7	154.4	166.6
+Egypt	Egypt	13.5	14.7	17.3	11.2	6.8	4.8
+El Salvador	El Salvador	22.6	22.7	24.1	7.6	2.3	12.3
+Equatorial Guinea	Equatorial Guinea	24.9	25.3	25.1	103.9	122	217.3
+Eritrea	Eritrea	20	20.8	22.5	6.7	6.9	9
+Estonia	Estonia	-4.2	-4.8	-1.4	44.9	33.2	34.5
+Ethiopia	Ethiopia	18.4	19.5	20.5	20.2	32.1	63.2
+Finland	Finland	-8.2	-8.2	-4.6	37.1	27.5	26.5
+France	France	4	4.7	7.5	65	56.4	54.9
+French Guiana	French Guiana	25.2	25.4	25.5	336	273.3	340.1
+Gabon	Gabon	25.5	25.7	25.9	159.6	169.9	236.4
+Georgia	Georgia	4.7	5.4	7.8	70	59.4	61.8
+Germany	Germany	-0.3	0.3	3.4	52.4	42.6	46.2
+Ghana	Ghana	26.8	28.2	28.4	13.6	40.3	88.2
+Greece	Greece	8.7	9.3	11.3	90.7	77.7	65.1
+Greenland	Greenland	13.4	-14.6	-14.3	43.3	41.3	39.8
+Guatemala	Guatemala	18.9	19.6	21.4	48.7	36.7	37.4
+Guinea	Guinea	24.3	25.8	27.1	2.8	8.1	21.9
+Guinea-Bissau	Guinea-Bissau	25.2	26.5	27.7	0.3	0.6	0.2
+Guyana	Guyana	25.6	25.7	26	209.2	125.7	136.1
+Haiti	Haiti	22.8	23.1	23.8	51.4	53.5	66.3
+Honduras	Honduras	23.8	24.3	25.5	110.9	71.1	49.1
+Hungary	Hungary	-0.7	0.3	5.2	33.4	29.5	30.4
+Iceland	Iceland	-1.1	-0.6	-0.3	84	69.9	71
+India	India	17.3	19.4	23.6	14.3	16.9	22.2
+Indonesia	Indonesia	26.1	26.2	26.4	333.3	284.2	284.5
+Iran	Iran	3.5	5.4	10.1	47.6	40.2	46.9
+Iraq	Iraq	9.2	11.7	15.8	38.3	35	39.5
+Ireland	Ireland	5.4	5.6	6.8	105.5	81.5	80.4
+Israel	Israel	11.2	11.8	14.2	100.6	82.8	63.3
+Italy	Italy	5.7	6.5	8.6	66.6	61.9	63.1
+Ivory Coast	Ivory Coast						
+Jamaica	Jamaica	24.1	24.1	24.9	68	54	47.3
+Japan	Japan	3.9	4.3	7.1	87.7	85.2	111.8
+Jordan	Jordan	8.6	10.1	13.1	39.6	37	30.8
+Kazakhstan	Kazakhstan	-11.7	-11	-3.5	19.1	17.2	21.4
+Kenya	Kenya	21.3	21.9	22.2	46.3	49.9	94.6
+"Korea, Democratic People's Repu"	"Korea, Democratic People's Repu"	-7.6	-5.1	0.6	14	14.1	24.4
+"Korea, Republic of"	"Korea, Republic of"	-0.9	0.8	5.3	35	42.3	59.6
+Kuwait	Kuwait	12.3	14.9	19	24	17	14
+Kyrgyzstan	Kyrgyzstan	-7	-4.8	2.5	26.6	31.5	48
+Laos	Laos	20.8	22.3	24.8	15	18.3	34.6
+Latvia	Latvia	-3.1	-3.5	-0.3	31.1	24.5	28.5
+Lebanon	Lebanon	7.9	8.4	10.3	196.7	132.1	167.2
+Lesotho	Lesotho	7.9	8.4	10.3	196.7	132.1	167.2
+Liberia	Liberia	24.7	25.6	26.3	29.5	51.2	101
+Libya	Libya	11.8	13.3	15.7	37.1	23.4	18.2
+Lithuania	Lithuania	-4.1	-3.6	-0.1	43.3	31.2	38
+Luxembourg	Luxembourg	0.1	1.3	4.1	68.6	58.5	56.6
+Macedonia	Macedonia	0.4	2.9	6.8	38.9	44.8	39.8
+Madagascar	Madagascar	24.1	24.2	23.8	304.9	276.2	232
+Malawi	Malawi	23	22.8	22.7	241	213.7	195.3
+Malaysia	Malaysia	25.8	26.1	26.5	199.9	146.4	170.4
+Mali	Mali	23.5	26.3	29.3	0.4	0.3	1.8
+Mauritania	Mauritania	21.1	23.5	25.9	1	1.4	0.5
+Mexico	Mexico	16.2	17.3	19.5	27.4	19.6	17.3
+Moldova	Moldova	-2.9	-1.4	3	31.2	32.6	30.6
+Mongolia	Mongolia	-20.8	-17.4	-8	2	2	2.9
+Montenegro	Montenegro	3.9	4.8	8.1	137.7	137.5	115.8
+Morocco	Morocco	11.1	12.3	13.8	56.3	56.5	50.7
+Mozambique	Mozambique	25.9	25.8	25.4	197.6	187.3	153.3
+Myanmar	Myanmar	21.7	23.5	26.5	4.1	5.4	8.6
+Namibia	Namibia	24	23.3	22.3	67.1	74.6	63
+Nepal	Nepal	9.9	11.7	16.4	19.1	23.6	30.8
+Netherlands	Netherlands	2.1	2.1	5	62.9	44.8	53.2
+New Zealand	New Zealand	16.9	17	15.4	97.9	95	95.3
+Nicaragua	Nicaragua	25.1	25.8	26.7	120.8	64	39.6
+Niger	Niger	21.8	24.8	28.9	0	0.3	2
+Nigeria	Nigeria	24.8	27.1	28.9	6.5	14.8	45.2
+Norway	Norway	-3.9	-3.6	-1	97.2	74.9	79.2
+Oman	Oman	19.2	20.8	23.7	7.6	9.8	11.5
+Pakistan	Pakistan	10.5	13	17.9	26.9	29.4	39.1
+Panama	Panama	25.7	26.1	26.6	46.5	21.8	25.3
+Papua New Guinea	Papua New Guinea	25.2	25.2	25	267.4	251.3	283
+Paraguay	Paraguay	26.9	26.5	25.2	162.3	143.8	142.5
+Peru	Peru	17.4	17.6	17.5	89.9	91.4	96.7
+Philippines	Philippines	25.1	25.4	26.3	134.2	93.9	81.7
+Poland	Poland	-2.7	-2.2	1.6	34.7	29.9	31.2
+Portugal	Portugal	10.9	11.5	12.8	109	92.9	74.8
+Puerto Rico	Puerto Rico	23	23.1	23.5	81.3	66.4	75.4
+Qatar	Qatar	17.2	18.4	21.3	12	17.7	16.7
+Romania	Romania	-2.4	-1.2	3.2	31.7	33.5	32.7
+Russia	Russia	-18	-16.4	-9.8	27.7	21.8	23.3
+Rwanda	Rwanda	19.2	19.3	19.2	98.8	110.3	139.5
+Saudi Arabia	Saudi Arabia	15.6	17.4	21	14.6	10.3	24.2
+Senegal	Senegal	23.8	25.5	27.2	0.9	0.9	0.2
+Serbia	Serbia	-0.6	0.6	5.1	44.3	41.4	46.3
+Sierra Leone	Sierra Leone	25.2	27	27.7	7.8	19	48
+Slovakia	Slovakia	-3.9	-2.4	1.5	32.1	33.1	34.7
+Slovenia	Slovenia	-1.3	-0.2	3.4	59.1	60.5	78.2
+Somalia	Somalia	25.3	26	27.3	3	2.5	12.3
+South Africa	South Africa	21.8	21.5	20.2	91.2	79.7	74.9
+Spain	Spain	9.4	10.3	12	58.9	50.6	46.7
+Sri Lanka	Sri Lanka	24.3	24.8	25.7	111.2	70.8	87.6
+Sudan	Sudan	22.7	24.4	27.5	0.9	0.2	0.5
+Suriname	Suriname	25.5	25.7	25.8	211.3	146.7	159.9
+Swaziland	Swaziland						
+Sweden	Sweden	-4.4	-4.7	-1.6	36.8	25.9	26.9
+Switzerland	Switzerland	-2.5	-1.5	1.4	79.9	75.4	83.4
+Syria	Syria	7	8.3	11.5	68.9	54	45
+Taiwan	Taiwan	15.1	15.4	17.7	38.4	63.3	67.1
+Tajikistan	Tajikistan	-2.2	-0.1	5.7	58.3	65.9	96
+"Tanzania, United Republic of"	"Tanzania, United Republic of"	23.2	23.4	23.4	132.5	127.3	166.5
+Thailand	Thailand	24.1	25.8	27.7	28.3	23.1	40.7
+Togo	Togo	26.5	28.3	28.8	9	26.6	72.8
+Trinidad	Trinidad	25.3	25.9	26.2	61.2	41.8	43.6
+Tunisia	Tunisia	10.7	11.5	13.3	50.5	45.3	43.4
+Turkey	Turkey	2.5	3.6	6.7	91	72.9	66.1
+Turkmenistan	Turkmenistan	1.5	3.2	8.9	21.4	21.2	33.3
+Uganda	Uganda	22	22.3	22.3	46.3	62.8	116.5
+Ukraine	Ukraine	-3.2	-2.5	1.6	35.5	33	29.9
+United Arab Emirates	United Arab Emirates	18.2	19	21.9	12.8	31.4	13.4
+United Kingdom	United Kingdom	4.1	4.2	5.9	70.2	50.8	50.6
+United States	United States	0	1.8	6.1	67.8	62.2	73.5
+Uruguay	Uruguay	23	22.5	20.7	95.3	92.3	106.7
+Uzbekistan	Uzbekistan	-0.3	1.7	8.2	34.6	33.8	51.4
+Venezuela	Venezuela	23.6	24.1	24.8	27.5	20.2	23.3
+Vietnam	Vietnam	20.2	21.1	23.3	42.1	27.5	34.1
+Western Sahara	Western Sahara	17.1	18	19.6	7.4	7.6	5.4
+Yemen	Yemen	23.4	23.9	25.4	3.8	0.6	7.4
+Zaire	Zaire						
+Zambia	Zambia	22.3	22.4	22.3	236.2	209.3	163
+Zimbabwe	Zimbabwe	22.4	22.1	21.5	176.5	152.6	88.5
+Macau	China	14	15	18	27	49	73
+Anhui	Mainland China	2	4	9	30	50	70
+Beijing	Mainland China	-3	0	6	0	0	0
+Chongqing	Mainland China	8	10	13	10	20	30
+Fujian	Mainland China	11	11	13	40	80	110
+Gansu	Mainland China	-5.6	-1.9	4.7	1.5	2.5	9.1
+Guangdong	Mainland China	14	15	18	40	60	90
+Guangxi	Mainland China	13	14	18	30	40	50
+Guizhou	Mainland China	5	6	12	10	20	40
+Hainan	Mainland China	18	19	22	20	30	40
+Hebei	Mainland China	-2	1	7	0	0	0
+Heilongjiang	Mainland China	0	-14	-3	0	0	10
+Henan	Mainland China	0	2	7	9	12	27
+Hubei	Mainland China	3	5	10	40	50	90
+Hunan	Mainland China	5	6	10	50	90	130
+Inner Mongolia	Mainland China	-12	-7	1	0	0	10
+Jiangsu	Mainland China	2	4	8	30	40	70
+Jiangxi	Mainland China	5	7	11	50	100	160
+Jilin	Mainland China	-15	-11	-2	0	0	10
+Liaoning	Mainland China	-10	-6	1	0	0	10
+Ningxia	Mainland China	-7	-2	3			
+Qinghai	Mainland China	-6	-2	2	0	0	0
+Shaanxi	Mainland China	0	2	8	6	10	26
+Shandong	Mainland China	0	0	5	10	10	20
+Shanghai	Mainland China	4	5	8	40	60	80
+Shanxi	Mainland China	-5	-1	4	0	0	10
+Sichuan	Mainland China	6	7	11	0	10	20
+Tianjin	Mainland China	-2	0	6	0	0	0
+Xinjiang	Mainland China	-11	-10	-1			
+Yunnan	Mainland China	8	10	13	10	10	10
+Zhejiang	Mainland China	4	5	10	60	90	120
+AZ	US	6	7.9	10.6	29.9	27.4	27.8
+CA	US	7.5	9	10.7	122	106.9	89.8
+IL	US	-3.3	-1.1	4.7	53.7	50.7	76.7
+MA	US	-3.7	-2.7	1.7	95.8	85.8	107.1
+OR	US	1.1	3.1	5.5	132.2	99.7	96.1
+TX	US	8.2	10.3	14.3	46.3	50	53.7
+WA	US	0.6	2.8	5.3	154.8	116.5	106.4
