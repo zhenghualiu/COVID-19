@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_Climate" for="node" attr.name="Climate" attr.type="double"/>
+  <key id="v_growth_rate" for="node" attr.name="growth_rate" attr.type="double"/>
+  <key id="v_na" for="node" attr.name="na" attr.type="boolean"/>
+  <key id="v_pop" for="node" attr.name="pop" attr.type="double"/>
+  <key id="v_Socio.economic" for="node" attr.name="Socio.economic" attr.type="double"/>
+  <key id="v_vertex.names" for="node" attr.name="vertex.names" attr.type="string"/>
+  <key id="e_commuting_rate" for="edge" attr.name="commuting_rate" attr.type="double"/>
+  <key id="e_na" for="edge" attr.name="na" attr.type="boolean"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_Climate">0.982123101362959</data>
+      <data key="v_growth_rate">0.384104336931609</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.794155301293358</data>
+      <data key="v_vertex.names">node1</data>
+    </node>
+    <node id="n1">
+      <data key="v_Climate">0.636459965491667</data>
+      <data key="v_growth_rate">0.362451145435519</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.888259635074064</data>
+      <data key="v_vertex.names">node2</data>
+    </node>
+    <node id="n2">
+      <data key="v_Climate">0.675269515137188</data>
+      <data key="v_growth_rate">0.379874160361464</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.927521307836287</data>
+      <data key="v_vertex.names">node3</data>
+    </node>
+    <node id="n3">
+      <data key="v_Climate">0.634602752397768</data>
+      <data key="v_growth_rate">0.298500302013785</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.678320243488997</data>
+      <data key="v_vertex.names">node4</data>
+    </node>
+    <node id="n4">
+      <data key="v_Climate">0.784950182074681</data>
+      <data key="v_growth_rate">0.310581543227821</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.648791730520315</data>
+      <data key="v_vertex.names">node5</data>
+    </node>
+    <node id="n5">
+      <data key="v_Climate">0.787873998633586</data>
+      <data key="v_growth_rate">0.319923320339973</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.672915017930791</data>
+      <data key="v_vertex.names">node6</data>
+    </node>
+    <node id="n6">
+      <data key="v_Climate">0.83094688039273</data>
+      <data key="v_growth_rate">0.331399992194235</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.689512047916651</data>
+      <data key="v_vertex.names">node7</data>
+    </node>
+    <node id="n7">
+      <data key="v_Climate">0.655777625273913</data>
+      <data key="v_growth_rate">0.2579600222662</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.532198909437284</data>
+      <data key="v_vertex.names">node8</data>
+    </node>
+    <node id="n8">
+      <data key="v_Climate">0.721504862303846</data>
+      <data key="v_growth_rate">0.271814359308861</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.544633197481744</data>
+      <data key="v_vertex.names">node9</data>
+    </node>
+    <node id="n9">
+      <data key="v_Climate">0.783143395092338</data>
+      <data key="v_growth_rate">0.347572906697293</data>
+      <data key="v_na">false</data>
+      <data key="v_pop">100000</data>
+      <data key="v_Socio.economic">0.766886806581169</data>
+      <data key="v_vertex.names">node10</data>
+    </node>
+    <edge source="n1" target="n0">
+      <data key="e_commuting_rate">0.0805076086061426</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n0">
+      <data key="e_commuting_rate">0.114195402224446</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n0">
+      <data key="e_commuting_rate">0.711959757184693</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n0">
+      <data key="e_commuting_rate">0.0763468086491283</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n0">
+      <data key="e_commuting_rate">0.0129217431875216</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n0">
+      <data key="e_commuting_rate">0.0899801777384894</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n0">
+      <data key="e_commuting_rate">0.0987717048556567</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n0">
+      <data key="e_commuting_rate">0.0432681460752323</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n0">
+      <data key="e_commuting_rate">0.0380499819365299</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n1">
+      <data key="e_commuting_rate">0.027668594187371</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n1">
+      <data key="e_commuting_rate">0.00882991463360015</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n1">
+      <data key="e_commuting_rate">0.0213642225360418</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n1">
+      <data key="e_commuting_rate">0.0300265903044663</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n1">
+      <data key="e_commuting_rate">0.0488508886063178</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n1">
+      <data key="e_commuting_rate">0.081983235847681</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n1">
+      <data key="e_commuting_rate">0.0540933155316155</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n1">
+      <data key="e_commuting_rate">0.113156882344827</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n1">
+      <data key="e_commuting_rate">0.0594892544347909</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_commuting_rate">0.0285930391609826</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_commuting_rate">0.0125020609874056</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n2">
+      <data key="e_commuting_rate">0.0354541111311568</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n2">
+      <data key="e_commuting_rate">0.0191400562277623</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n2">
+      <data key="e_commuting_rate">0.14396810637034</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n2">
+      <data key="e_commuting_rate">0.0363920738774097</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n2">
+      <data key="e_commuting_rate">0.00784200112925987</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n2">
+      <data key="e_commuting_rate">0.152479629125052</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n2">
+      <data key="e_commuting_rate">0.0794983671411482</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_commuting_rate">0.519133573974023</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_commuting_rate">0.14991394339282</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_commuting_rate">0.15409010016776</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n3">
+      <data key="e_commuting_rate">0.0604051158825646</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n3">
+      <data key="e_commuting_rate">0.0222965502363265</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n3">
+      <data key="e_commuting_rate">0.0408227259804615</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n3">
+      <data key="e_commuting_rate">0.0363325778804918</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n3">
+      <data key="e_commuting_rate">0.033825032617674</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n3">
+      <data key="e_commuting_rate">0.0208767206310386</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_commuting_rate">0.229608546342411</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_commuting_rate">0.0840204993806206</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_commuting_rate">0.0930932796300205</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_commuting_rate">0.012591172438513</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n4">
+      <data key="e_commuting_rate">0.0802493788245387</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n4">
+      <data key="e_commuting_rate">0.0961902049859632</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n4">
+      <data key="e_commuting_rate">0.0725073942004239</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n4">
+      <data key="e_commuting_rate">0.0281932897013763</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n4">
+      <data key="e_commuting_rate">0.0523907221719952</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_commuting_rate">0.070514455744478</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_commuting_rate">0.218907494815641</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="e_commuting_rate">0.0517653685323023</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_commuting_rate">0.0197056506395804</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="e_commuting_rate">0.0615517128319482</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n5">
+      <data key="e_commuting_rate">0.16971595174141</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n5">
+      <data key="e_commuting_rate">0.0505706307929016</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n5">
+      <data key="e_commuting_rate">0.032654032464419</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n5">
+      <data key="e_commuting_rate">0.0138510298758523</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_commuting_rate">0.0161681138399046</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_commuting_rate">0.202790117612221</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n6">
+      <data key="e_commuting_rate">0.0174945789056387</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_commuting_rate">0.0331455072806361</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_commuting_rate">0.0184686157814664</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_commuting_rate">0.129204859711627</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n6">
+      <data key="e_commuting_rate">0.0329640931746524</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n6">
+      <data key="e_commuting_rate">0.0435033387483558</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n6">
+      <data key="e_commuting_rate">0.0338569088234864</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_commuting_rate">0.101558074277608</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_commuting_rate">0.0555040171144818</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_commuting_rate">0.0378591364878933</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n7">
+      <data key="e_commuting_rate">0.460230862856559</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n7">
+      <data key="e_commuting_rate">0.128928742795687</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_commuting_rate">0.0156862028312215</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_commuting_rate">0.043939549275602</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n7">
+      <data key="e_commuting_rate">0.0780237405302049</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n7">
+      <data key="e_commuting_rate">0.273078636783173</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_commuting_rate">0.0721822814248464</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_commuting_rate">0.160880833234777</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n8">
+      <data key="e_commuting_rate">0.031010795310834</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n8">
+      <data key="e_commuting_rate">0.171221506857079</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n8">
+      <data key="e_commuting_rate">0.183174102721654</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n8">
+      <data key="e_commuting_rate">0.138305008847342</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n8">
+      <data key="e_commuting_rate">0.0765097635369696</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n8">
+      <data key="e_commuting_rate">0.0125844542735911</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n9" target="n8">
+      <data key="e_commuting_rate">0.117037155766399</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n0" target="n9">
+      <data key="e_commuting_rate">0.17937571441491</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n1" target="n9">
+      <data key="e_commuting_rate">0.0434276630465827</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n2" target="n9">
+      <data key="e_commuting_rate">0.035215514636</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n3" target="n9">
+      <data key="e_commuting_rate">0.00879928095936166</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_commuting_rate">0.0709272773781441</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_commuting_rate">0.636270952123359</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n6" target="n9">
+      <data key="e_commuting_rate">0.0614544497498955</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n7" target="n9">
+      <data key="e_commuting_rate">0.0635857372495359</data>
+      <data key="e_na">false</data>
+    </edge>
+    <edge source="n8" target="n9">
+      <data key="e_commuting_rate">0.0386839339192335</data>
+      <data key="e_na">false</data>
+    </edge>
+  </graph>
+</graphml>
